@@ -1,3 +1,10 @@
+@use "bootstrap/scss/functions";
+
+@use "bootstrap/scss/variables";
+@use "bootstrap/scss/maps";
+@use "bootstrap/scss/mixins";
+@use "bootstrap/scss/utilities";
+
 /* color palette from <https://github.com/vuejs/theme> */
 :root {
   --vt-c-white: #ffffff;
